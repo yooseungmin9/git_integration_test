@@ -1,0 +1,14 @@
+# 형상관리 제외항목 정의
+.idea/
+*.iml
+out/
+
+# OS 관련
+.DS_Store
+Thumbs.db
+
+# 로그
+*.log
+
+# 기타
+*.class`
